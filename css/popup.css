@@ -79,17 +79,7 @@
 
       
              /*kartice stilizacija*/
-/* Stilizacija za kartice sa narudžbinama */
 
-body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.5;
-    color: #333;
-    font-weight: 700;
-    font-size: 16px;
-    user-select: none;
-}
-/* Stilizacija za kartice sa narudžbinama */
 .item-details {
     font-family: 'Roboto', sans-serif;
     /* Postavite željeni Google Font */
@@ -144,4 +134,4 @@ body {
     font-size: 14px;
     color: #666;
 }
-/*kartice stilizacija*/   
+/*kartice stilizacija1*/   
